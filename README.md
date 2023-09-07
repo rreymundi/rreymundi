@@ -16,7 +16,7 @@
 - Community Support Project Manager @ Kickstarter
 - Currently getting certified in Amazon Web Services
 - Check out my latest project: [Travelogue](https://travelogue-hc2y.onrender.com/) (repo [here](https://github.com/rreymundi/travelogue))
-- Guitarist and sound designer specializing in eurorack modular synths. See my [current system](https://www.modulargrid.net/e/racks/view/2261977).
+- Guitarist and sound designer specializing in eurorack modular synths. See my [current system](https://cdn.modulargrid.net/img/racks/modulargrid_2261977.jpg).
 - Check out my band Balún @ [Spotify](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU?si=x9nE_ciQTuuEaBdKuU0TTw), [Bandcamp](https://balun.bandcamp.com/album/prisma-tropical-2), [NPR Tiny Desk](https://www.youtube.com/watch?v=YZ2iWUyT_DI), and [KEXP Live](https://www.youtube.com/watch?v=tzXnUaO2rRY&t=1121s).
 
 <br>
