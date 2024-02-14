@@ -11,12 +11,12 @@
 
 <br>
 
-- Boricua 🇵🇷 / Fluent in Spanish and English / _#latinxintech_
+- Boricua 🇵🇷 / Fluent in Spanish and English
 - Software Engineer graduated from Flatiron School's Software Engineering program
 - Community Support Project Manager @ Kickstarter
-- Currently getting certified in Amazon Web Services
+- AWS Certified Cloud Practitioner
 - Check out my latest project: [Travelogue](https://travelogue-hc2y.onrender.com/) (repo [here](https://github.com/rreymundi/travelogue))
-- Guitarist and sound designer specializing in eurorack modular synths. See my [current system](https://cdn.modulargrid.net/img/racks/modulargrid_2261977.jpg).
+- Guitarist and sound designer specializing in eurorack modular synths.
 - Check out my band Balún @ [Spotify](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU?si=x9nE_ciQTuuEaBdKuU0TTw), [Bandcamp](https://balun.bandcamp.com/album/prisma-tropical-2), [NPR Tiny Desk](https://www.youtube.com/watch?v=YZ2iWUyT_DI), and [KEXP Live](https://www.youtube.com/watch?v=tzXnUaO2rRY&t=1121s).
 
 <br>
@@ -53,6 +53,7 @@
 - **Tools**:
 
   	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
