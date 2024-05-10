@@ -68,7 +68,6 @@
 - **Music Stuff**:
 
   - Ableton Live
-  - Pure Data
   - Eurorack systems
   - Music theory, composition, and arrangement
  
