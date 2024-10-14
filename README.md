@@ -34,6 +34,7 @@
 	![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 	![Javascript](https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+	![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <br>
 
