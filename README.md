@@ -13,7 +13,7 @@
 
 - Boricua 🇵🇷 / Fluent in Spanish and English
 - Software Engineer graduated from Flatiron School's Software Engineering program
-- Community Support Project Manager @ Kickstarter
+- Community Support Project Manager and Software Engineer @ Kickstarter
 - AWS Certified Cloud Practitioner
 - Check out my latest project: [Travelogue](https://travelogue-hc2y.onrender.com/) (repo [here](https://github.com/rreymundi/travelogue))
 - Guitarist and sound designer specializing in eurorack modular synths.
