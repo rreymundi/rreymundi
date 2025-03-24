@@ -66,11 +66,13 @@
 
 <br>
 
-- **Music Stuff**:
+- **Other**:
 
   - Ableton Live
+  - Touchdesigner
+  - Arduino
   - Eurorack systems
-  - Music theory, composition, and arrangement
+  - Sound synthesis
  
 <br>
 
